@@ -2,16 +2,6 @@
 
 A JavaFX desktop application that loads 3+ years of real **Pakistan Stock Exchange (KSE-100)** index data, visualizes it across side-by-side interactive charts, and runs two smoothing algorithms (SMA & EMA) with **nanosecond-precision execution timing** for direct performance comparison.
 
-Built as a Final Lab Project for the **Object-Oriented Programming** course at IQRA University, Karachi.
-
----
-
-## Screenshots
-
-*(Add screenshots here)*
-
----
-
 ## Features
 
 - Secure Login & Registration system with file-based credential storage
@@ -147,9 +137,7 @@ All subclasses override `process()` and `getExecutionTimeNs()`, which are declar
 
 ---
 
-## Author
-
-**Ahmed** — BS Artificial Intelligence, IQRA University Karachi
+*Author*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
