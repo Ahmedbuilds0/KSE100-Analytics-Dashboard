@@ -1,0 +1,13 @@
+# Compiled output
+bin/
+*.class
+
+# Credentials (auto-created by app on first run)
+users.txt
+
+# Academic report (private)
+Project_Report.md
+
+# OS files
+.DS_Store
+Thumbs.db
