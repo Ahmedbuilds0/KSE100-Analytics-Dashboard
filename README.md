@@ -12,10 +12,6 @@
 
 <br/>
 
-> Final Lab Project — **Object Oriented Programming** · IQRA University, Karachi
-
-<br/>
-
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=flat-square)
 ![Records](https://img.shields.io/badge/Dataset-863%20Trading%20Days%20(2023–2026)-3b82f6?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithms-SMA%20%7C%20EMA%20%7C%20Linear%20Regression-a855f7?style=flat-square)
@@ -168,7 +164,7 @@ KSE100-Analytics-Dashboard/
 
 ### Step 1 — Clone
 ```bash
-git clone https://github.com/YOUR_USERNAME/KSE100-Analytics-Dashboard.git
+git clone https://github.com/Ahmedbuilds0/KSE100-Analytics-Dashboard.git
 cd KSE100-Analytics-Dashboard
 ```
 
@@ -210,6 +206,11 @@ New accounts can be registered from the login screen.
 
 <div align="center">
 
-Built with ❤️ in Karachi · IQRA University · BS Artificial Intelligence
+## Author
+
+**Muhammad Ahmed**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ahmedbuilds0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmedbuilds0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-443592333/)
 
 </div>
